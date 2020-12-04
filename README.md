@@ -2,7 +2,7 @@
 This repository simply stores the core of the NetBeans Platform, branded for Northwind. We will also be able to make the Wiki available to end users for assistance, as well as the Issues page, though the issues will not be fixed here, but in the specific module's private repository. For the most part, this repo is just a place-holder for the entirety of the Northwind Project.
 
 ## Attention Contributors!
-Please, [start here](https://github.com/PekinSOFT-Systems/Northwind-Main/wiki/Contributors-Information) before reading on...
+Please, [start here](https://github.com/PekinSOFT-Systems/Northwind-Main/wiki/Contributors-Information) before reading on...By reading the link provided, you will learn about which version of the Java language, as well as the NetBeans Platform, we are using in this project. This will make your life easier while contributing to the Northwind Project.
 
 If you are contributing on the Northwind Project by creating a module or plugin, please fork this repo to use as your test run platform, as this repo contains all of the branding for Northwind, including changing the names of the end-user configuration files and locations. To test your modules or plugins in the Northwind application:
 
