@@ -29,6 +29,10 @@
     <class>com.pekinsoft.nwind.db.lib.Accounts</class>
     <class>com.pekinsoft.nwind.db.lib.LoadingJournal</class>
     <class>com.pekinsoft.nwind.db.lib.MaintenanceJournal</class>
+    <class>com.pekinsoft.nwind.db.lib.Brokers</class>
+    <class>com.pekinsoft.nwind.db.lib.Customers</class>
+    <class>com.pekinsoft.nwind.db.lib.Loads</class>
+    <class>com.pekinsoft.nwind.db.lib.Stops</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:derby:nwind;create=true;"/>
       <property name="javax.persistence.jdbc.user" value=""/>
