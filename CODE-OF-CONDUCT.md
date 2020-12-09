@@ -1,6 +1,6 @@
 # Contributor Code of Conduct
 
-Our [company values](https://github.com/PekinSOFT-Systems/LoadMaster/wiki/Company-Culture) guide us in our day-to-day interactions and decision-making. Our open source projects are no exception. Trust, respect, collaboration and transparency are core values we believe should live and breathe within our projects. Our community welcomes participants from around the world with different experiences, unique perspectives, and great ideas to share.
+Our [company values](https://github.com/PekinSOFT-Systems/Northwind-Main/wiki/Company-Culture) guide us in our day-to-day interactions and decision-making. Our open source projects are no exception. Trust, respect, collaboration and transparency are core values we believe should live and breathe within our projects. Our community welcomes participants from around the world with different experiences, unique perspectives, and great ideas to share.
 
 ## Our Pledge
 
